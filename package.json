@@ -1,0 +1,30 @@
+{
+  "name": "Leaflet.geojsonStyle",
+  "version": "1.0.0",
+  "description": "Geojson Style implementation for Leaflet",
+  "main": "src/leaflet.geojsonStyle.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/novaworld/Leaflet.geojsonStyle.git"
+  },
+  "keywords": [
+    "leaflet",
+    "leaflet plugin",
+    "geojson",
+    "styling",
+    "svg",
+    "css"
+  ],
+  "author": {
+    "name": "Truong Thanh Tung",
+    "url": "https://github.com/ttungbmt"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/novaworld/Leaflet.geojsonStyle/issues"
+  },
+  "homepage": "https://github.com/novaworld/Leaflet.geojsonStyle",
+  "devDependencies": {
+
+  }
+}
